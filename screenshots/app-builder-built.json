@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Solara — A house on the cliff",
+      "hasCanvas": false,
+      "bodyTextLen": 2184,
+      "bodyTextHash": "fce1a96f4d1db6809fde9ff4aab756154e21fa03c3d2fa0b89f583fc3b529d9b",
+      "bodyTextPrefix": "Skip to content Solara Stay Table Coast Inquire CALA SOLARA, CAM",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Solara — A house on the cliff",
+      "hasCanvas": false,
+      "bodyTextLen": 2159,
+      "bodyTextHash": "76ac9f18a728c6d50090e3e75ef0afc529c1e7eb7644ed93b8ee8202f4d8d81e",
+      "bodyTextPrefix": "Skip to content Solara CALA SOLARA, CAMPANIA A house on the clif",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
